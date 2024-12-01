@@ -1,62 +1,60 @@
+<p align="center"><a href="https://github.com/Xkrishmishra/Tanumusic/blob/main/cookies/cookies.txt"> <img src="https://img.shields.io/badge/Add%20Your%20Cookies-blue?style=for-the-badge" width="220" height="38.45"/></a></p>
+  
+  <h2 align="center">
+    ──「 ᴛᴀɴᴜ ダ ᴍᴜsɪᴄ 
 <p align="center">
-<a href="https://github.com/AdityaHalder/Aditya-Player"><img src="https://graph.org/file/918101d0ad6b1207e6201.png" height="270" width="480" alt="Genius-Userbot"/></a>
+  <img src="https://i.ibb.co/2FSqhSr/photo-2024-09-19-18-33-46-7416425646991081500.jpg">
+</p>
+
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+</h3>
+
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Xkrishmishra/Tanumusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
+</h3>
+
+- ɢᴇᴛ ʏᴏᴜʀ [Necessary Variables](https://github.com/xkrishmishra/TanuMusic/blob/main/sample.env)
+- ᴜᴘɢʀᴀᴅᴇ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇ ʙʏ :
+```sudo apt-get update && sudo apt-get upgrade -y```
+- ɪɴsᴛᴀʟʟ ғғᴍᴘᴇɢ ʙʏ :
+```sudo apt-get install python3-pip ffmpeg -y```
+- ɪɴsᴛᴀʟʟ ʀᴇǫᴜɪʀᴇᴅ ᴘᴀᴄᴋᴀɢᴇs ʙʏ :
+```sudo apt-get install python3-pip -y```
+- ɪɴsᴛᴀʟʟ ᴘɪᴘ ʙʏ :
+```sudo pip3 install -U pip```
+- ɪɴsᴛᴀʟʟ ɴᴏᴅᴇ ᴊs ʙʏ :
+```curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm```
+- ᴀᴅᴅ ʏᴏᴜʀ ᴄᴏᴏᴋɪᴇs ᴛᴏ [cookies/cookies.txt](https://github.com/Xkrishmishra/Tanumusic/blob/main/cookies/cookies.txt)
+- ᴄʟᴏɴᴇ ᴛʜᴇ ʀᴇᴘᴏsɪᴛᴏʀʏ ʙʏ :
+```git clone https://github.com/xkrishmishra/TanuMusic&& cd TanuMusic```
+- ɪɴsᴛᴀʟʟ ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs ʙʏ :
+```pip3 install -U -r requirements.txt```
+- ғɪʟʟ ʏᴏᴜʀ ᴠᴀʀɪᴀʙʟᴇs ɪɴ ᴛʜᴇ ᴇɴᴠ ʙʏ :
+```vi sample.env```<br>
+ᴘʀᴇss ```I``` ᴏɴ ᴛʜᴇ ᴋᴇʏʙᴏᴀʀᴅ ғᴏʀ ᴇᴅɪᴛɪɴɢ env<br>
+ᴘʀᴇss ```Ctrl+C``` ᴡʜᴇɴ ʏᴏᴜ'ʀ ᴅᴏɴᴇ ᴡɪᴛʜ ᴇᴅɪᴛɪɴɢ ᴇɴᴠ ᴀɴᴅ ```:wq``` ᴛᴏ sᴀᴠᴇ ᴛʜᴇ env<br>
+- Rename the env file by :
+```mv sample.env .env```
+- Install ᴛᴍᴜx ᴛᴏ ᴋᴇᴇᴘ ʀᴜɴɴɪɴɢ ʏᴏᴜʀ ʙᴏᴛ ᴡʜᴇɴ ʏᴏᴜ ᴄʟᴏsᴇ ᴛʜᴇ ᴛᴇʀᴍɪɴᴀʟ ʙʏ :
+```sudo apt install tmux && tmux```
+- ғɪɴᴀʟʟʏ ʀᴜɴ ᴛʜᴇ ʙᴏᴛ ʙʏ :
+```bash start```
+- ғᴏʀ getting ᴏᴜᴛ ғʀᴏᴍ ᴛᴍᴜx sᴇssɪᴏɴ : ᴘʀᴇss ```Ctrl+b``` and then ```d```<br>
+━━━━━━━━━━━━━━━━━━━━
+
+<h3 align="center">
+    ─「 sᴜᴩᴩᴏʀᴛ 」─
+</h3>
+
+<p align="center">
+<a href="https://telegram.me/Krishnetwork"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<b>Aditya-Player</b><br/>
-Aditya-Player is an advanced & powerful multi-featured Telegram vc streaming bot.
+<a href="https://telegram.me/KRISHSUPPORT"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-<h2>🤖 Aditya-Player Info</h2>
-<p title="Aditya-Player">Aditya-Player is an open-source Telegram multi-featured vc streaming bot developed by using the Python programming language and Pyrogram MTProto client library of the Telegram API and PyTgCalls library, a secure and reliable way to interact with the Telegram platform.</p>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ᴋʀɪsʜ](https://github.com/Xkrishmishra) ғᴏʀ [𝐊ʀɪsʜ ʙᴏᴛ](https://github.com/xkrishmishra/TanuMusic)_ </b>
 
-<h2>♨️ Host AdityaPlayer On VPS Server</h2>
-
-
-**1. At First Copy & Paste Below Command.**
-
-```sudo apt install curl ffmpeg git nano python3-pip screen -y && cd && rm-rf AdityaPlayer && git clone https://github.com/AdityaHalder/AdityaPlayer && cd AdityaPlayer && pip3 install -r requirements.txt --force-reinstall && screen -R AdityaPlayer```
-
-
-**2. Now Run This Command & Add Your Variables.**
-
-```nano Config.env```
-
-
-**3. After That Save and Exit By Below Buttons.**
-
-```ctrl + s```
-
-```ctrl + x```
-
-
-**4. Now Run Your Bot in Background.**
-
-```python3 -m AdityaHalder```
-
-
-**5. Now Exit From Screen & Close Your Vps & Enjoy**
-
-```ctrl + a + d```
-
-
-> [!IMPORTANT]
-> If you use Aditya-Player, it is important that you have proper knowledge about it. You should follow the [**`Documentation`**](https://t.me/adityaserver) to learn about Aditya-Player.
-
-<h2>🤝 Contributing</h2>
-<p title="Contributing">As Aditya-Player is an open-source project, all kinds of contributions are respectfully welcomed, and I also extend my sincere thanks to all contributors.</p>
-
-<h2>🌐 Updates & Support</h2>
-<p title="Support">You can join Aditya-Player's official Telegram channel and group on Telegram for any updates and support-related issues of Aditya-Player.</p>
-
-- Telegram Updates: [**`@AdityaServer`**](https://t.me/adityaserver)
-
-- Telegram Support: [**`@AdityaDiscus`**](https://t.me/adityadiscus)
-> [!WARNING]  
-> Verify the username of Aditya-Player's official Telegram channel and group. If you face a problem with a fake channel or group, Aditya-Player will not take responsibility for it, so I request that you verify Aditya-Player's official Telegram channel and group.
-
-
-<h2>📑 Acknowledgement / Credits</h2>
-
-- [**`Pyrogram:`**](https://github.com/pyrogram) All functions of Aditya-Player based on this mtproto client library.
-- [**`Py-TgCalls:`**](https://github.com/py-tgcalls) Telegram Streaming system of Aditya-Player based on this library.
