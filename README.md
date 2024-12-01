@@ -10,7 +10,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Xkrishmishra/TGmusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Xkrishmishra/TGmusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku connect karke deploy karo-black?style=for-the-badge&logo=heroku connect karke deploy karo " width="220" height="38.45"/></a></p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
@@ -26,7 +26,7 @@
 ```sudo pip3 install -U pip```
 - ɪɴsᴛᴀʟʟ ɴᴏᴅᴇ ᴊs ʙʏ :
 ```curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm```
-- ᴀᴅᴅ ʏᴏᴜʀ ᴄᴏᴏᴋɪᴇs ᴛᴏ [cookies/cookies.txt](https://github.com/Xkrishmishra/Tanumusic/blob/main/cookies/cookies.txt)
+- ᴀᴅᴅ ʏᴏᴜʀ ᴄᴏᴏᴋɪᴇs ᴛᴏ [cookies/cookies.txt](https://github.com/Xkrishmishra/TGMusic/blob/main/cookies.txt)
 - ᴄʟᴏɴᴇ ᴛʜᴇ ʀᴇᴘᴏsɪᴛᴏʀʏ ʙʏ :
 ```git clone https://github.com/xkrishmishra/TanuMusic&& cd TanuMusic```
 - ɪɴsᴛᴀʟʟ ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs ʙʏ :
